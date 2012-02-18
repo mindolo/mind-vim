@@ -1,0 +1,33 @@
+[submodule "home/.vim/bundle/vim-pathogen"]
+	path = home/.vim/bundle/vim-pathogen
+	url = https://github.com/tpope/vim-pathogen
+[submodule "home/.vim/bundle/vim-supertab"]
+	path = home/.vim/bundle/vim-supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "home/.vim/bundle/vim-command-t"]
+	path = home/.vim/bundle/vim-command-t
+	url = https://github.com/wincent/Command-T.git
+[submodule "home/.vim/bundle/vim-nerdtree"]
+	path = home/.vim/bundle/vim-nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "home/.vim/bundle/vim-surround"]
+	path = home/.vim/bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "home/.vim/bundle/vim-repeat"]
+	path = home/.vim/bundle/vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "home/.vim/bundle/vim-speeddating"]
+	path = home/.vim/bundle/vim-speeddating
+	url = https://github.com/tpope/vim-speeddating.git
+[submodule "home/.vim/bundle/vim-commentary"]
+	path = home/.vim/bundle/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "bundle/vim-solarized"]
+	path = bundle/vim-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "home/.vim/bundle/vim-solarized"]
+	path = home/.vim/bundle/vim-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "home/.vim/bundle/vim-abolish"]
+	path = home/.vim/bundle/vim-abolish
+	url = https://github.com/tpope/vim-abolish.git
